@@ -43,6 +43,8 @@ Generated\ Files/
 .vscode/
 .terraform/
 
+*terraform*.*
+
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*

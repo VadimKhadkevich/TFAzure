@@ -25,7 +25,7 @@ stages:
               containerRegistry: "partityra docker hub"
               repository: "partityra/weatherapi"
               command: "buildAndPush"
-              Dockerfile: "**/Dockerfile"
+              Dockerfile: "**/dockerfile"
               tags: |
                 $(tag)
   - stage: Provision
